@@ -18,3 +18,8 @@ A Python program that calculates the weighted average and assigns a letter grade
 
 ## Technologies used
 - Python 3.5 and above
+
+## Contributing
+If you find any bugs or have suggestions for improvement, please feel free to open an issue or submit a pull request.  
+
+Additionally, I would love to collaborate with others to develop a graphical user interface (GUI) for this program. If you have experience with GUI development and would like to contribute, please let me know by opening an issue or contacting me directly. Together, we can create an even better user experience for this program.
